@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reda MAKTOUM</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on an end of study's project **gestionCAD**
-
-- 🌱 I’m currently learning **ReactJS and Laravel**
+- 🔭 Currently working as a **Teacher Assistant** mentoring students and instructing them in their Mern Stack journey
 
 - 📫 Contact me via **reda.maktoum@gmail.com**
 
